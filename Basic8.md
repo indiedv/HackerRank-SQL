@@ -14,5 +14,5 @@ The STATION table is described as follows:
 where LAT_N is the northern latitude and LONG_W is the western longitude.
 
 ```sql
-SELECT NAME FROM CITY WHERE COUNTRYCODE='JPN'
+SELECT DISTINCT CITY FROM STATION WHERE ID%2=0;
 ```
