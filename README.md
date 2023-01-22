@@ -8,3 +8,4 @@
 * [Japanese Cities' Names](https://github.com/indiedv/HackerRank-SQL/blob/main/Basic6.md)
 * [Weather Observation Station 1](https://github.com/indiedv/HackerRank-SQL/blob/main/Basic7.md)
 * [Weather Observation Station 3](https://github.com/indiedv/HackerRank-SQL/blob/main/Basic8.md)
+* [Weather Observation Station 4](https://github.com/indiedv/HackerRank-SQL/blob/main/Basic9.md)
